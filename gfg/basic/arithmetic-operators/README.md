@@ -40,7 +40,7 @@ Explanation: The given operations are performed.
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-25T13:10:36.128Z  
+**Submitted:** 2026-08-25T13:43:52.507Z  
 
 ```cpp
 #include <iomanip>
