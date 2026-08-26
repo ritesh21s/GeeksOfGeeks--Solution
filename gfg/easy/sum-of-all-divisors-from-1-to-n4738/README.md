@@ -50,7 +50,7 @@ So,  F(1) = 1
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-26T18:03:26.948Z  
+**Submitted:** 2026-08-26T18:03:33.712Z  
 
 ```cpp
 class Solution {
