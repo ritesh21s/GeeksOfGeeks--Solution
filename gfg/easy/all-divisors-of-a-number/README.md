@@ -29,7 +29,7 @@ Explanation: As 21191 is a prime number, it has only 2 factors(1 and the number 
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-26T17:44:51.226Z  
+**Submitted:** 2026-08-28T13:08:26.308Z  
 
 ```cpp
 class Solution {
