@@ -34,7 +34,7 @@ Explanation: Since n is 0, the sum is 0.
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-25T13:37:43.659Z  
+**Submitted:** 2026-08-28T13:07:06.594Z  
 
 ```cpp
 #include<bits/stdc++.h>
