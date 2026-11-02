@@ -13,7 +13,7 @@ Print  **"Learn Coding on CodeChef"**  to the console.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-02T16:48:31.673Z  
+**Submitted:** 2026-11-02T16:48:43.316Z  
 
 ```java
 class Codechef
